@@ -1,0 +1,12 @@
+[submodule "PointOfSales_BackEnd"]
+	path = PointOfSales_BackEnd
+	url = https://github.com/SergioTGSerra/PointOfSales_BackEnd.git
+[submodule "GUI_Point_Of_Sales_V2"]
+	path = GUI_Point_Of_Sales_V2
+	url = https://github.com/SergioTGSerra/GUI_Point_Of_Sales_V2.git
+[submodule "BackOffice-LuxRest"]
+	path = BackOffice-LuxRest
+	url = https://github.com/SergioTGSerra/BackOffice-LuxRest.git
+[submodule "TechAndFast"]
+	path = TechAndFast
+	url = https://github.com/Rodrigordgs11/TechAndFast.git
